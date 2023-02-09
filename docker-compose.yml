@@ -14,7 +14,6 @@ services:
     volumes:
       - ./ipfs_staging:/export
       - ./ipfs_data:/data/ipfs
-      - ./config:/data/ipfs/config
 volumes:
   ipfs_staging:
     external: true
