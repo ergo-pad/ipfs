@@ -1,6 +1,6 @@
 Run `docker compose up`, let the daemon start, then kill the session with ctrl+c
 
-To use the API, copy the config file from ipfs_data to the root directory, and modify API section: 
+To use the API, edit the config file in ipfs_data: 
 
 ```
 "HTTPHeaders": {
