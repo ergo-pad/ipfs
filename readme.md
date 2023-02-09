@@ -16,4 +16,4 @@ To use the API, edit the config file in ipfs_data:
     }
 ```
 
-To prevent hosting other files, set Gateway NoFetch to true.
+To prevent hosting other files, set `Gateway.NoFetch` to true.
