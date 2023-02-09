@@ -17,3 +17,5 @@ To use the API, edit the config file in ipfs_data:
 ```
 
 To prevent hosting other files, set `Gateway.NoFetch` to true.
+
+Port forward `4001` on your router for best results 
